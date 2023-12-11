@@ -1,4 +1,4 @@
-[[![header](https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=auto&height=200&section=header&text=WELECOMETaehwanGithub%20&fontSize=30)](https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=auto&height=200&section=header&text=WELECOM&fontSize=40&text2=taehwangithub&fontSize2=20)](https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=auto&height=200&section=header&text=WELECOM&fontSize=40&text2=taehwangithub&fontSize2=20)
+[[![header](https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=auto&height=200&section=header&text=WELECOM&fontSize=40&text2=taehwangithub&fontSize2=20)]
 ## 자기소개 
 - 이름 : 장태환    
 - 나이: 1999년생    

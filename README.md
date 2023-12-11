@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&animation=blinking&color=auto&height=200&section=header&text=TaehwanGithub%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=auto&height=200&section=header&text=TaehwanGithub%20render&fontSize=90)
 ## 자기소개 
 - 이름 : 장태환    
 - 나이: 1999년생    

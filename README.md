@@ -23,4 +23,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taehwan2&show_icons=true&theme=radical)
 
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taehwansw@gmail.com)](본인의 메일주소)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taehwansw@gmail.com)](taehwansw@gmail.com)

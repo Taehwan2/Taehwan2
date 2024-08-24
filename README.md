@@ -10,7 +10,7 @@
  - 상명대학교 소프트웨어학과 졸업
  - 코드스테이츠 SEB 백엔드 수료
  - 원티드 클린코드 수료
- - 항해플러스 수료 - 블랙뱃지
+ - 항해플러스 수료 - 블랙뱃지(@hanghae99)
   <img src="https://static.spartacodingclub.kr/hanghae99/plus/badge/badge-black.png" class="css-xp7qz9">
 
  ### 직무🕴️

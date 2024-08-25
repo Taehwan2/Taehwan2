@@ -11,7 +11,9 @@
  - 코드스테이츠 SEB 백엔드 수료
  - 원티드 클린코드 수료
  - 항해플러스 수료 - 블랙뱃지(@hanghae99)
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/badge/badge-black.png" class="css-xp7qz9">
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>
 
  ### 직무🕴️
  - 금융 업무 개발자 재직중
